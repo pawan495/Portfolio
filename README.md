@@ -11,9 +11,9 @@ In my Portfolio, I used Mostly
 After my this portfoilo, I used JavaScript.
 
 # Deployed
-[Portfolio Url]https://pawan495.github.io/Portfolio/
+https://pawan495.github.io/Portfolio/
 
 # ScreenShot
-[!screenshootpreview](./assets/images/s.png)
+![screenshootpreview](./assets/images/s.png)
 # Contributions
 - UofT courses material, W3S schools, Google(https://www.google.com), CSS Tricks and Sister(jasmeet12.github.io)
